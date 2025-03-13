@@ -11,6 +11,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     debugPrint("asdflaskdfj");
+    debugPrint("asdflaskdfj");
     return MaterialApp(
       title: 'Flutter Demo',
       theme: ThemeData(
